@@ -1,3 +1,3 @@
 ﻿using EmployeeManagement;
 
-UC4_EmployeeWageSwitchCase.EmployeeWage();
+UC5_MonthlyEmployeeWage.EmployeeWage();
