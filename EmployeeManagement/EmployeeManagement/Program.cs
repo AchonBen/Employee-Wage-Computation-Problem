@@ -1,1 +1,3 @@
-﻿Console.WriteLine("Welcome to Employee Wage Computation Program");
+﻿using EmployeeManagement;
+
+UC1_EmployeeAttendance.EmployeeAttendance();
