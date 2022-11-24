@@ -1,3 +1,3 @@
 ﻿using EmployeeManagement;
 
-UC1_EmployeeAttendance.EmployeeAttendance();
+UC2_EmployeeDailyWage.EmployeeWage();
