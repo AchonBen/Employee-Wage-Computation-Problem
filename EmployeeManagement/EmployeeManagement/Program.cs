@@ -1,3 +1,3 @@
 ﻿using EmployeeManagement;
 
-UC2_EmployeeDailyWage.EmployeeWage();
+UC3_PartTimeEmployee.EmployeeWage();
