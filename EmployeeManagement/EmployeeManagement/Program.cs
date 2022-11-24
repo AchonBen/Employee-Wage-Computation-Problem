@@ -1,3 +1,3 @@
 ﻿using EmployeeManagement;
 
-UC3_PartTimeEmployee.EmployeeWage();
+UC4_EmployeeWageSwitchCase.EmployeeWage();
