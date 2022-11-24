@@ -1,3 +1,3 @@
 ﻿using EmployeeManagement;
 
-UC5_MonthlyEmployeeWage.EmployeeWage();
+UC6_EmployeeWorkingDays.EmployeeWage();
